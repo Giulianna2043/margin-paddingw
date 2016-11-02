@@ -1,17 +1,45 @@
-div{
+
+p{
+
+  font-size: 15px;
+} 
+
+  .uno{
 
 	border: 2px solid orangered;
 	padding: 0px 17px 160px 0px;
-	margin:0px 0px 0px 5px;
+	margin:0px 0px 10px 5px;
 	background-color: white;
 	display: block;
     height: 100px; 
     width: 170px;
     text-align: center;
 
-}
+   }
 
-p{
+   .dos{
 
-  font-size: 15px;
-} 
+	border: 2px solid orangered;
+	padding: 0px 17px 160px 0px;
+	margin:0px 0px 10px 5px;
+	background-color: white;
+	display: block;
+    height: 100px; 
+    width: 170px;
+    text-align: center;
+
+   }
+
+
+   .tres{
+
+	border: 2px solid orangered;
+	padding: 0px 17px 160px 0px;
+	margin:0px 0px 10px 5px;
+	background-color: white;
+	display: block;
+    height: 100px; 
+    width: 170px;
+    text-align: center;
+
+   }
