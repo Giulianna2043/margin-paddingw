@@ -1,0 +1,36 @@
+/* Agrega aqui tu CSS */
+/*p{
+
+	border: 15px solid yellow ;
+	padding: 30px;
+	background-color: white;
+	display: block;
+
+	
+}
+	.uno{
+		margin-right: 1000px;
+		text-align: center;
+
+
+	}*/
+
+
+
+div{
+
+	border: 2px solid orangered;
+	padding: 0px 17px 160px 0px;
+	margin:0px 0px 0px 5px;
+	background-color: white;
+	display: block;
+    height: 100px; 
+    width: 170px;
+    text-align: center;
+
+}
+
+p{
+
+  font-size: 15px;
+} 
