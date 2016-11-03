@@ -1,0 +1,17 @@
+div
+{
+
+	border: 10px solid green;
+	padding:20px 20px;
+	background-color: white;
+	display: block;
+    height: 100px; 
+    width: 220px;
+    margin-left: 40%;
+    margin-top:10%;
+
+
+}
+.re{
+	display: block;
+}
